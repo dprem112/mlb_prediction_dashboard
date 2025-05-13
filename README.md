@@ -1,3 +1,3 @@
 # MLB Prediction Dashboard
 
-Streamlit app that predicts MLB game outcomes using machine learning.
+This Streamlit app predicts MLB game outcomes using a trained XGBoost model.
